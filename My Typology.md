@@ -7,16 +7,16 @@ Links:
 Created: 2025-04-15T13:05:14
 ---
 > [!note] Typology:
-> ### 𝑰𝑵𝑻𝑷 - 5𝒘6 -  𝑺𝑶5 - 513 - 𝑰𝑵(𝑻) - 𝑰𝑳𝑰-𝑪𝑵 [𝑺𝑯𝑺] - 𝑰𝑳𝑬 [𝑺𝑪𝑺] - 𝑳²𝑽³𝑬⁴𝑭³ - 𝑴𝒆𝒍𝒂𝒏𝒄𝒉𝒐𝒍𝒊𝒄-𝑷𝒉𝒍𝒆𝒈𝒎𝒂𝒕𝒊𝒄 - 𝒓/𝑪/𝑶𝒆|𝑰| - 𝑻𝒓𝒖𝒆 𝑵𝒆𝒖𝒕𝒓𝒂𝒍 - 𝑷𝒊𝒔𝒄𝒆𝒔 𝑺𝒖𝒏 - 𝑮𝒆𝒎𝒊𝒏𝒊 𝑴𝒐𝒐𝒏 - 𝑽𝒊𝒓𝒈𝒐 𝑹𝒊𝒔𝒊𝒏𝒈 - 𝑻𝒉𝒆 𝑯𝒆𝒓𝒎𝒊𝒕 (𝑰𝑿)
+> ### 𝑰𝑵𝑻𝑱 - 5𝒘6 - 𝑺𝑶5 - 514 - 𝑰𝑵(𝑻) - 𝑰𝑳𝑰-𝑪𝑵 [𝑺𝑯𝑺] - 𝑰𝑳𝑬 [𝑺𝑪𝑺] - 𝑳²𝑽³𝑬¹𝑭⁴ - 𝑴𝒆𝒍𝒂𝒏𝒄𝒉𝒐𝒍𝒊𝒄 [𝑫𝒐𝒎𝒊𝒏𝒂𝒏𝒕] - 𝒓𝑪/𝑶/𝒆[𝑰] - 𝑵𝒆𝒖𝒕𝒓𝒂𝒍 𝑮𝒐𝒐𝒅 - 𝑷𝒊𝒔𝒄𝒆𝒔 𝑺𝒖𝒏 - 𝑮𝒆𝒎𝒊𝒏𝒊 𝑴𝒐𝒐𝒏 - 𝑽𝒊𝒓𝒈𝒐 𝑹𝒊𝒔𝒊𝒏𝒈 - 𝑻𝒉𝒆 𝑴𝒂𝒈𝒊𝒄𝒊𝒂𝒏 (𝑰)
 ### Socionics, Jungian, MBTI
 ---
 **SCS:** ILE
 
 **SHS:** ILI-CNDH-T
 
-**Jungian:** IN(T) (Ni - Ti)
+**Jungian:** IN(T) (Ni - Te)
 
-**MBTI:** INTP
+**MBTI:** INTJ
 
 ### Enneagram
 ---
@@ -27,17 +27,17 @@ Created: 2025-04-15T13:05:14
 ---
 **PY (SoL):** LVEF
 
-**PY Subtypes:** L²V³E⁴F³
+**PY Subtypes:** L²V³E¹F⁴
 
-**Temperament:** Melancholic-Phlegmatic
+**Temperament:** Melancholic [Dominant]
 
 ### Trait Theory / Misc
 ---
 **Big 5:** RCOEI
 
-**SLOAN:** r/C/Oe|I|
+**SLOAN:** rC/O/e[I]
 
-**Moral Alignment:** True Neutral
+**Moral Alignment:** Neutral Good
 
 ## Works Cited
 - “ILE Characteristic” (Classical Socionics): https://augustaproject.wordpress.com/ile-characteristic/
